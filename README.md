@@ -1,5 +1,7 @@
 # SD-Card-Reader-and-Writer
 Arduino Data logger
+Author:NM Vishwa
+Reviewer: Satish Tembad
 
 
 Technical Manual for Arduino Data Logger
