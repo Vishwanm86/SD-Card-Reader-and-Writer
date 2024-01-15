@@ -1,8 +1,8 @@
 //Data Logger code, Version 1
-//Written by: Mallikarjun Kande / Space Energy Systems
-//Date      : 5-May, 2023
-//Micro-controller: ATmega328P U-TH
-//Hardware: Datalogger ver 1.0 (supplied by MESHA)
+//Written by: Vishww NM
+//Date      : 25 Dec 2024
+//Micro-controller: Arduino Uno
+//Hardware: Datalogger ver 1.0 
 
 //This header file declares the global variables
 
